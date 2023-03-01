@@ -1,2 +1,1 @@
-# courseProject-DataStructure
-This is an implementation of a complicated tree data structure
+This is an implementation of a complicated tree data structure. 
